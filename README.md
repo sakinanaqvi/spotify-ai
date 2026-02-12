@@ -1,6 +1,6 @@
-# spotify-ai
+# nostalgify
 
-🎧 **spotify-ai** is a Streamlit web app that uses OpenAI's GPT-4 and the Spotify API to generate personalized Spotify playlists based on user-submitted moods, moments, or memories.
+🎧 **nostalgify** is a Streamlit web app that uses OpenAI's GPT-4 and the Spotify API to generate personalized Spotify playlists based on user-submitted moods, moments, or memories.
 
 Users describe a moment or feeling in natural language, and the AI creates a playlist title and description. The app then lets users create that playlist directly in their Spotify account.
 
